@@ -7,7 +7,7 @@
   <a href="https://sadrs-portfolio-glow.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="mailto:annansadr.ca@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/annansadr22"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/annansadr22/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/annan-sadr/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -81,25 +81,13 @@ From **distributed microservices** to **AI-powered web applications**, I love tr
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=annansadr22&show_icons=true&theme=tokyonight" alt="Annan's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=annansadr22&theme=tokyonight" alt="GitHub streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annansadr22&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
----
 
 ### 🧭 Let's Connect!
 
 💼 **Portfolio:** [sadrs-portfolio-glow.vercel.app](https://sadrs-portfolio-glow.vercel.app)  
 📧 **Email:** [annansadr.ca@gmail.com](mailto:annansadr.ca@gmail.com)  
 💻 **GitHub:** [github.com/annansadr22](https://github.com/annansadr22)  
-🌐 **LinkedIn:** [linkedin.com/in/annansadr22](https://www.linkedin.com/in/annansadr22/)  
+🌐 **LinkedIn:** [linkedin.com/in/annansadr22](https://www.linkedin.com/in/annan-sadr/)  
 
 ---
 
